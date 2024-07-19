@@ -4,6 +4,8 @@
 let a = 5;
 let b = 10;
 
+//var, let, const
+
 // Performing addition
 let sum = a + b;
 
@@ -40,7 +42,7 @@ console.log("X: ", x);
 // Demonstrating string variables
 
 let str1 = "hello";
-let str2 = 'world';
+let str2 = '23746';
 
 console.log(str1, str2);
 
@@ -86,6 +88,7 @@ console.log('i: ', i);
 console.log('u: ', u);
 
 // Comparing elements of the array
+// == >= 
 if (i >= u) {
     console.log("i is greater");
 } else {
